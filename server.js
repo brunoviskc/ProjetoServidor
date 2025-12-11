@@ -3,7 +3,7 @@ CADASTRO DE USUÁRIOS
     [x] Criar um usuário
         - Receber Email, Nome e Telefone
     [x] Deletar um usuário
-    [] Editar um usuário
+    [x] Editar um usuário
     [x] Buscar todos os usuários
     [x] Buscar um usuário específico
 
@@ -14,8 +14,7 @@ CADASTRO DE USUÁRIOS
     JSON é o Padrão de dados da internet
     Front End -> Back End (JSON)
 
-    bruno_db
-    hjYwtS6pZgcqZzPW
+    
 */
 
 const express = require("express")
